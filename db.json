@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "img": "https://wojtekrat.github.io/portfolio/src/images/candy.jpg",
+      "title": "Candy Carnival",
+      "description": "Simple puzzle game built in JavaScript, similar to popular game series Candy Crush.",
+      "link": "https://wojtekrat.github.io/candyCarnival/"
+    },
+    {
+      "img": "https://wojtekrat.github.io/portfolio/src/images/bingo.jpg",
+      "title": "Bingo",
+      "description": "Game of Bingo. You have 40 moves to click right number and win.",
+      "link": "https://wojtekrat.github.io/Bingo/"
+    }
+    ,
+    {
+      "img": "https://wojtekrat.github.io/portfolio/src/images/space-attack.jpg",
+      "title": "Space Attack",
+      "description": "Classic Space Invaders inspired game created with JavaScript.",
+      "link": "https://wojtekrat.github.io/space-attack/"
+    }
+    ,
+    {
+      "img": "https://wojtekrat.github.io/portfolio/src/images/giphy.jpg",
+      "title": "GIPHIES",
+      "description": "One of my first projects. Gifs browser based on GIPHY API with a search engine.",
+      "link": "https://wojtekrat.github.io/GIPHIES/"
+    }
+  ]
+}
